@@ -1,0 +1,6 @@
+{
+  "name": "Sue",
+  "age": 26,
+  "status": "A",
+  "group": ["news", "sports"]
+}
