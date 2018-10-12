@@ -1,1 +1,0 @@
-# Structures of Data Model
