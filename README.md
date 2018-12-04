@@ -1,6 +1,6 @@
 # Hands-On Big Data Modeling
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://india.packtpub.com/in/big-data-and-business-intelligence/hands-big-data-modeling"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Big Data Modeling](Packt UTM URL of the Book), published by Packt.
 
