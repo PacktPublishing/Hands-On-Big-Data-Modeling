@@ -44,7 +44,7 @@ With the following software and hardware list you can run all code files present
 | 1-15      | Python, R, Jupyter Notebook        | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://www.packtpub.com/sites/default/files/downloads/9781788620901_ColorImages.pdf](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781788620901_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
@@ -52,7 +52,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Big Data Architect's Handbook [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/big-data-architects-handbook?utm_source=github&utm_medium=repository&utm_campaign=9781788835824) [[Amazon]](https://www.amazon.com/dp/1788835824)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **James Lee**
 James Lee is a passionate software wizard working at one of the top Silicon Valley-based start-ups specializing in big data analysis. In the past, he has worked at big companies such as Google and Amazon. In his day job, he works with big data technologies, including Cassandra and Elasticsearch, and is an absolute Docker technology geek and IntelliJ IDEA lover with a strong focus on efficiency and simplicity. Apart from his career as a software engineer, he is keen on sharing his knowledge with others and guiding them, especially in relation to start-ups and programming. He has been teaching courses and conducting workshops on Java programming / IntelliJ IDEA since he was 21. James holds an MS degree in computer science from McGill University and has many years' experience as a teaching assistant in a variety of computer science classes. He also enjoys skiing and swimming, and is a passionate traveler.
 
