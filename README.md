@@ -9,7 +9,7 @@ This is the code repository for [Hands-On Big Data Modeling](Packt UTM URL of th
 ## What is this book about?
 Modeling and managing data is a central focus of all big data projects. In fact, a database is considered to be effective only if you have a logical and sophisticated data model. This book will help you develop practical skills in modeling your own big data projects and improve the performance of analytical queries for your specific business requirements.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Get insights into big data and discover various data models
 * Explore conceptual, logical, and big data models
 * Understand how to model data containing different file types
