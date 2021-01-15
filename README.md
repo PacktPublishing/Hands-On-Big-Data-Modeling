@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-big-data-modeling/9781788620901)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1788620909).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On Big Data Modeling
 
 <a href="https://india.packtpub.com/in/big-data-and-business-intelligence/hands-big-data-modeling"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
